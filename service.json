@@ -1,0 +1,1 @@
+{"name": "default-service", "packageName": "docs-demo", "packageRevision": "latest", "runtime": {"gpu": false, "replicas": 1, "concurrency": 6, "runnerImage": ""}, "triggers": [], "initParams": {}, "moduleName": "default_module"}

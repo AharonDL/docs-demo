@@ -1,0 +1,24 @@
+
+# 2020-07-28 09:27:25.695944
++pack
+
+# 2020-07-28 09:27:58.769090
++packages generate --package-name "docs-demo" --package-type single_function_no_input
+
+# 2020-07-28 09:28:20.343703
++projects create --project-name "docs-demo"
+
+# 2020-07-28 09:28:29.351030
++projects checkout --project-name "docs-demo"
+
+# 2020-07-28 09:28:40.751312
++git commit -am "initial
+
+# 2020-07-28 09:28:47.116095
++git commit -am "initial commit"
+
+# 2020-07-28 09:28:50.194948
++git add .
+
+# 2020-07-28 09:28:53.436058
++git commit -am "initial commit"

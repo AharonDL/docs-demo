@@ -1,0 +1,1 @@
+{"name": "docs-demo", "modules": [{"name": "default_module", "entryPoint": "main.py", "className": "ServiceRunner", "initInputs": [], "functions": [{"name": "run", "description": "", "input": [], "output": [], "displayName": null, "displayIcon": null}]}]}
